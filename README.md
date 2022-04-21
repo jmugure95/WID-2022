@@ -27,3 +27,23 @@ You will need a python3+ virtual environment with the following packages install
       - Scrape product information
       - Store the data in dataframes and csv
       - Data cleaning
+
+### Project Directions
+- clone this project
+```
+git clone https://github.com/jmugure95/WID-2022.git
+```
+- create a virtualenv
+```
+virtualenv -p python3.8 webscrapper
+```
+- cd into the cloned folder (WID-2022)
+```
+cd WID-2022
+```
+- Install the requirements from the requirements
+```
+pip3 install -r requirements.txt
+```
+
+### The above directions are for use on a linux terminal, if using a Mac or Windows, kindly tweak them for your environment
